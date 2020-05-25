@@ -172,3 +172,13 @@ div img {
     margin-bottom: 10px;
     margin-right: 10px;
   }
+  #banner_image
+  {
+      margin-top: 15px;
+      height: 200px;
+      border-radius: 5px;
+      background: url('fondo.jpg') no-repeat;
+      position: relative;
+      box-shadow: 0px 4px 4px #1c1a19;
+      margin-bottom: 25px;
+  }
